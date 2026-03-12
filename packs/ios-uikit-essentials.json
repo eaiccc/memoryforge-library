@@ -1,0 +1,55 @@
+{
+  "deck": "iOS UIKit Essentials",
+  "cards": [
+    {
+      "front": "What are the main stages of a UIViewController lifecycle?",
+      "back": "viewDidLoad → viewWillAppear → viewDidAppear → viewWillDisappear → viewDidDisappear",
+      "notes": "viewDidLoad is called once; appear/disappear methods are called every time."
+    },
+    {
+      "front": "What is Auto Layout?",
+      "back": "A constraint-based layout system that dynamically calculates the size and position of views.",
+      "notes": "Uses NSLayoutConstraint or visual format language."
+    },
+    {
+      "front": "What is the difference between frame and bounds?",
+      "back": "frame is position/size relative to the superview; bounds is position/size relative to the view's own coordinate system.",
+      "notes": "frame.origin changes when the view moves; bounds.origin changes when content scrolls."
+    },
+    {
+      "front": "What is a UITableViewCell reuse mechanism?",
+      "back": "Cells scrolled off-screen are placed in a reuse queue and recycled for new rows, improving performance.",
+      "notes": "dequeueReusableCell(withIdentifier:for:)"
+    },
+    {
+      "front": "What is the difference between push and present navigation?",
+      "back": "Push adds to a UINavigationController stack (horizontal slide). Present shows a modal (vertical slide).",
+      "notes": "Push requires a navigation controller; present works on any view controller."
+    },
+    {
+      "front": "What is a delegate pattern?",
+      "back": "A design pattern where one object delegates certain behaviors to another object via a protocol.",
+      "notes": "Common in UIKit: UITableViewDelegate, UITextFieldDelegate."
+    },
+    {
+      "front": "What is the responder chain?",
+      "back": "A hierarchy of objects (views → view controllers → window → app) that can handle events passed along the chain.",
+      "notes": "If a responder can't handle an event, it forwards to the next responder."
+    },
+    {
+      "front": "What does setNeedsLayout() do?",
+      "back": "Marks the view's layout as needing an update, which will happen on the next layout cycle.",
+      "notes": "Call layoutIfNeeded() to force immediate layout."
+    },
+    {
+      "front": "What is a UIStackView?",
+      "back": "A streamlined interface for laying out views in a row or column, managing constraints automatically.",
+      "notes": "axis, distribution, alignment, spacing are key properties."
+    },
+    {
+      "front": "What is the difference between intrinsicContentSize and sizeThatFits?",
+      "back": "intrinsicContentSize is the natural size a view prefers; sizeThatFits returns the best size for a given bounding rect.",
+      "notes": "UILabel's intrinsicContentSize is based on its text and font."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "swift-basics",
+      "title": "Swift Basics",
+      "description": "Core Swift language concepts including optionals, closures, protocols, and value types.",
+      "category": "Programming",
+      "cardCount": 10,
+      "author": "MemoryForge",
+      "url": "packs/swift-basics.json"
+    },
+    {
+      "id": "ios-uikit-essentials",
+      "title": "iOS UIKit Essentials",
+      "description": "Key UIKit concepts: view lifecycle, Auto Layout, table views, and navigation patterns.",
+      "category": "Programming",
+      "cardCount": 10,
+      "author": "MemoryForge",
+      "url": "packs/ios-uikit-essentials.json"
+    },
+    {
+      "id": "japanese-n5-greetings",
+      "title": "Japanese N5 Greetings",
+      "description": "Essential Japanese greetings and daily expressions for JLPT N5 level.",
+      "category": "Language",
+      "cardCount": 10,
+      "author": "MemoryForge",
+      "url": "packs/japanese-n5-greetings.json"
+    }
+  ]
+}

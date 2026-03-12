@@ -1,0 +1,55 @@
+{
+  "deck": "Japanese N5 Greetings",
+  "cards": [
+    {
+      "front": "Good morning (polite)",
+      "back": "おはようございます (ohayou gozaimasu)",
+      "notes": "Casual form: おはよう (ohayou)"
+    },
+    {
+      "front": "Hello / Good afternoon",
+      "back": "こんにちは (konnichiwa)",
+      "notes": "Used from late morning to early evening."
+    },
+    {
+      "front": "Good evening",
+      "back": "こんばんは (konbanwa)",
+      "notes": "Used after sunset."
+    },
+    {
+      "front": "Goodbye",
+      "back": "さようなら (sayounara)",
+      "notes": "Formal; casual alternatives: じゃね (ja ne), またね (mata ne)"
+    },
+    {
+      "front": "Thank you (polite)",
+      "back": "ありがとうございます (arigatou gozaimasu)",
+      "notes": "Casual form: ありがとう (arigatou)"
+    },
+    {
+      "front": "Excuse me / I'm sorry",
+      "back": "すみません (sumimasen)",
+      "notes": "Used for apologies, getting attention, and expressing gratitude."
+    },
+    {
+      "front": "Nice to meet you",
+      "back": "はじめまして (hajimemashite)",
+      "notes": "Used when meeting someone for the first time."
+    },
+    {
+      "front": "Please take care of me / Best regards",
+      "back": "よろしくお願いします (yoroshiku onegaishimasu)",
+      "notes": "Often follows はじめまして in introductions."
+    },
+    {
+      "front": "How are you?",
+      "back": "お元気ですか (ogenki desu ka)",
+      "notes": "Not used as frequently as in English; mainly after not seeing someone for a while."
+    },
+    {
+      "front": "I'm going out / See you later (when leaving home)",
+      "back": "いってきます (ittekimasu)",
+      "notes": "Response: いってらっしゃい (itterasshai) — Take care!"
+    }
+  ]
+}
