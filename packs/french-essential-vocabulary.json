@@ -1,0 +1,25 @@
+{
+  "deck": "French Essential Vocabulary",
+  "cards": [
+    {"front": "Hello (formal) / Hello (informal)", "back": "Bonjour / Salut", "notes": "Bonjour = used until evening. Bonsoir = good evening. Salut = casual hi/bye."},
+    {"front": "Please", "back": "S'il vous plaît (formal) / S'il te plaît (informal)", "notes": "Literally: 'if it pleases you.' Abbreviated: SVP."},
+    {"front": "Thank you / Thank you very much", "back": "Merci / Merci beaucoup", "notes": "Merci bien = thanks a lot (slightly less formal than merci beaucoup)."},
+    {"front": "Yes / No", "back": "Oui / Non", "notes": "Si = yes (when contradicting a negative statement). 'Tu n'aimes pas ça?' 'Si!' = 'Yes I do!'"},
+    {"front": "I don't understand", "back": "Je ne comprends pas", "notes": "Comprendre = to understand. In spoken French, 'ne' is often dropped: 'Je comprends pas.'"},
+    {"front": "Do you speak English?", "back": "Parlez-vous anglais ? (formal) / Tu parles anglais ? (informal)", "notes": "Parler = to speak. Je parle français = I speak French."},
+    {"front": "How are you?", "back": "Comment allez-vous ? (formal) / Comment vas-tu ? / Ça va ? (informal)", "notes": "Response: Ça va bien, merci. Et vous/toi ? = I'm fine, thanks. And you?"},
+    {"front": "I would like...", "back": "Je voudrais...", "notes": "Conditional of 'vouloir.' More polite than 'Je veux' (I want). Je voudrais un café = I'd like a coffee."},
+    {"front": "Where is...?", "back": "Où est... ? / Où se trouve... ?", "notes": "Où est la gare ? = Where is the train station? Où sont les toilettes ? = Where are the restrooms?"},
+    {"front": "How much does it cost?", "back": "Combien ça coûte ? / C'est combien ?", "notes": "Combien = how much/how many. Ça fait combien ? = How much does that come to? (at checkout)"},
+    {"front": "To eat / To drink", "back": "Manger / Boire", "notes": "Je mange = I eat. Je bois = I drink. Boire is irregular: je bois, tu bois, il boit, nous buvons."},
+    {"front": "Breakfast / Lunch / Dinner", "back": "Le petit-déjeuner / Le déjeuner / Le dîner", "notes": "In Belgium/Switzerland: breakfast = le déjeuner, lunch = le dîner, dinner = le souper."},
+    {"front": "Today / Tomorrow / Yesterday", "back": "Aujourd'hui / Demain / Hier", "notes": "Avant-hier = day before yesterday. Après-demain = day after tomorrow."},
+    {"front": "Left / Right / Straight ahead", "back": "À gauche / À droite / Tout droit", "notes": "Tournez à gauche = turn left. Continuez tout droit = continue straight ahead."},
+    {"front": "I am... (nationality/profession)", "back": "Je suis...", "notes": "Je suis américain(e) = I am American. Je suis étudiant(e) = I am a student. No article needed for professions."},
+    {"front": "Good / Bad", "back": "Bon(ne) / Mauvais(e)", "notes": "Bon = good (quality). Bien = well (manner). C'est bon = it's good. C'est bien = it's fine/well done."},
+    {"front": "Big / Small", "back": "Grand(e) / Petit(e)", "notes": "Un grand café = a large coffee. Une petite maison = a small house. Adjective agrees with noun gender."},
+    {"front": "I like / I love", "back": "J'aime / J'adore", "notes": "J'aime le chocolat = I like chocolate. J'adore voyager = I love traveling. Aimer + person = to love."},
+    {"front": "My name is...", "back": "Je m'appelle...", "notes": "Literally: 'I call myself...' Comment vous appelez-vous ? = What is your name? (formal)"},
+    {"front": "The bill, please", "back": "L'addition, s'il vous plaît", "notes": "In France, the waiter won't bring the bill until you ask. Service (tip) is usually included (service compris)."}
+  ]
+}

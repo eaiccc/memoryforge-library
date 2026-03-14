@@ -1,0 +1,25 @@
+{
+  "deck": "Japanese Kanji N5",
+  "cards": [
+    {"front": "一", "back": "One (いち / ひと-)\nOn: イチ, イツ\nKun: ひと(つ)", "notes": "一つ (ひとつ) = one thing. 一人 (ひとり) = one person. 一月 (いちがつ) = January."},
+    {"front": "二", "back": "Two (に / ふた-)\nOn: ニ\nKun: ふた(つ)", "notes": "二つ (ふたつ) = two things. 二人 (ふたり) = two people. 二月 (にがつ) = February."},
+    {"front": "三", "back": "Three (さん / み-)\nOn: サン\nKun: み(つ), みっ(つ)", "notes": "三つ (みっつ) = three things. 三月 (さんがつ) = March. 三人 (さんにん) = three people."},
+    {"front": "日", "back": "Day / Sun (ひ / にち)\nOn: ニチ, ジツ\nKun: ひ, か", "notes": "日本 (にほん) = Japan. 今日 (きょう) = today. 日曜日 (にちようび) = Sunday. 三日 (みっか) = 3rd day."},
+    {"front": "月", "back": "Month / Moon (つき / げつ)\nOn: ゲツ, ガツ\nKun: つき", "notes": "月曜日 (げつようび) = Monday. 一月 (いちがつ) = January. 今月 (こんげつ) = this month."},
+    {"front": "水", "back": "Water (みず / すい)\nOn: スイ\nKun: みず", "notes": "水曜日 (すいようび) = Wednesday. お水 (おみず) = water (polite). 水泳 (すいえい) = swimming."},
+    {"front": "火", "back": "Fire (ひ / か)\nOn: カ\nKun: ひ, ほ", "notes": "火曜日 (かようび) = Tuesday. 火事 (かじ) = fire (disaster). 花火 (はなび) = fireworks."},
+    {"front": "木", "back": "Tree / Wood (き / もく)\nOn: モク, ボク\nKun: き, こ", "notes": "木曜日 (もくようび) = Thursday. 木 (き) = tree. 大木 (たいぼく) = large tree."},
+    {"front": "金", "back": "Gold / Money (かね / きん)\nOn: キン, コン\nKun: かね, かな", "notes": "金曜日 (きんようび) = Friday. お金 (おかね) = money. 金魚 (きんぎょ) = goldfish."},
+    {"front": "土", "back": "Earth / Soil (つち / ど)\nOn: ド, ト\nKun: つち", "notes": "土曜日 (どようび) = Saturday. 土地 (とち) = land. お土産 (おみやげ) = souvenir."},
+    {"front": "人", "back": "Person (ひと / じん)\nOn: ジン, ニン\nKun: ひと", "notes": "日本人 (にほんじん) = Japanese person. 一人 (ひとり) = one person. 大人 (おとな) = adult."},
+    {"front": "大", "back": "Big / Large (おお-きい / だい)\nOn: ダイ, タイ\nKun: おお(きい)", "notes": "大学 (だいがく) = university. 大きい (おおきい) = big. 大人 (おとな) = adult."},
+    {"front": "小", "back": "Small (ちい-さい / しょう)\nOn: ショウ\nKun: ちい(さい), こ, お", "notes": "小さい (ちいさい) = small. 小学校 (しょうがっこう) = elementary school."},
+    {"front": "山", "back": "Mountain (やま / さん)\nOn: サン, ザン\nKun: やま", "notes": "富士山 (ふじさん) = Mt. Fuji. 山田 (やまだ) = Yamada (common surname). 火山 (かざん) = volcano."},
+    {"front": "川", "back": "River (かわ / せん)\nOn: セン\nKun: かわ", "notes": "川 (かわ) = river. 川口 (かわぐち) = Kawaguchi (place name)."},
+    {"front": "食", "back": "Eat / Food (た-べる / しょく)\nOn: ショク, ジキ\nKun: た(べる), く(う)", "notes": "食べる (たべる) = to eat. 食事 (しょくじ) = meal. 食堂 (しょくどう) = cafeteria."},
+    {"front": "学", "back": "Learn / Study (まな-ぶ / がく)\nOn: ガク\nKun: まな(ぶ)", "notes": "学生 (がくせい) = student. 大学 (だいがく) = university. 学校 (がっこう) = school."},
+    {"front": "生", "back": "Life / Birth / Raw (い-きる / せい)\nOn: セイ, ショウ\nKun: い(きる), う(まれる), なま", "notes": "学生 (がくせい) = student. 先生 (せんせい) = teacher. 生まれる (うまれる) = to be born."},
+    {"front": "車", "back": "Car / Vehicle (くるま / しゃ)\nOn: シャ\nKun: くるま", "notes": "電車 (でんしゃ) = train. 自動車 (じどうしゃ) = automobile. 車 (くるま) = car."},
+    {"front": "見", "back": "See / Look (み-る / けん)\nOn: ケン\nKun: み(る), み(える), み(せる)", "notes": "見る (みる) = to see/watch. 見える (みえる) = to be visible. 花見 (はなみ) = cherry blossom viewing."}
+  ]
+}

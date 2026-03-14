@@ -1,0 +1,25 @@
+{
+  "deck": "Spanish Essential Vocabulary",
+  "cards": [
+    {"front": "Hello / Hi", "back": "Hola", "notes": "Universal greeting, used in all contexts."},
+    {"front": "Good morning", "back": "Buenos días", "notes": "Used until noon."},
+    {"front": "Good afternoon", "back": "Buenas tardes", "notes": "Used from noon until evening."},
+    {"front": "Good night", "back": "Buenas noches", "notes": "Used as greeting in the evening or to say goodbye at night."},
+    {"front": "Please", "back": "Por favor", "notes": "Essential politeness word. Literally: 'as a favor.'"},
+    {"front": "Thank you", "back": "Gracias", "notes": "Muchas gracias = thank you very much."},
+    {"front": "You're welcome", "back": "De nada", "notes": "Literally: 'of nothing.' Alternative: No hay de qué."},
+    {"front": "Excuse me / Sorry", "back": "Perdón / Disculpe", "notes": "Perdón for bumping into someone. Disculpe to get attention politely."},
+    {"front": "I don't understand", "back": "No entiendo", "notes": "Very useful phrase for beginners. Entender = to understand."},
+    {"front": "Do you speak English?", "back": "¿Habla inglés?", "notes": "Formal 'usted' form. Informal: ¿Hablas inglés?"},
+    {"front": "How much does it cost?", "back": "¿Cuánto cuesta?", "notes": "Essential for shopping. Plural: ¿Cuánto cuestan?"},
+    {"front": "Where is the bathroom?", "back": "¿Dónde está el baño?", "notes": "El baño = bathroom. El servicio = restroom (more formal)."},
+    {"front": "I would like...", "back": "Quisiera... / Me gustaría...", "notes": "Polite way to order in restaurants or make requests."},
+    {"front": "The check, please", "back": "La cuenta, por favor", "notes": "Used in restaurants. La cuenta = the bill/check."},
+    {"front": "Water", "back": "Agua (el agua)", "notes": "Feminine noun but uses 'el' article (el agua fría). To avoid 'la a-' sound clash."},
+    {"front": "To eat / To drink", "back": "Comer / Beber (Tomar)", "notes": "Tomar is more common in Latin America for 'to drink.'"},
+    {"front": "Left / Right / Straight", "back": "Izquierda / Derecha / Derecho (Recto)", "notes": "A la izquierda = to the left. Siga derecho = go straight."},
+    {"front": "Today / Tomorrow / Yesterday", "back": "Hoy / Mañana / Ayer", "notes": "Mañana also means 'morning' (la mañana). Context determines meaning."},
+    {"front": "I need help", "back": "Necesito ayuda", "notes": "Ayuda = help (noun). Ayudar = to help (verb)."},
+    {"front": "My name is...", "back": "Me llamo... / Mi nombre es...", "notes": "Literally: 'I call myself...' ¿Cómo te llamas? = What's your name? (informal)"}
+  ]
+}

@@ -2,6 +2,123 @@
   "version": 1,
   "packs": [
     {
+      "id": "usmle-step1-essentials",
+      "title": "USMLE Step 1 Essentials",
+      "description": "High-yield concepts for USMLE Step 1: pathology, physiology, biochemistry, immunology, and more.",
+      "category": "Medical",
+      "cardCount": 20,
+      "author": "MemoryForge",
+      "url": "packs/usmle-step1-essentials.json"
+    },
+    {
+      "id": "usmle-step2-clinical",
+      "title": "USMLE Step 2 CK Clinical",
+      "description": "Clinical vignettes and management for USMLE Step 2 CK: emergency medicine, internal medicine, pediatrics.",
+      "category": "Medical",
+      "cardCount": 15,
+      "author": "MemoryForge",
+      "url": "packs/usmle-step2-clinical.json"
+    },
+    {
+      "id": "anatomy-high-yield",
+      "title": "Anatomy High-Yield",
+      "description": "Essential anatomy for medical students: nerve injuries, blood supply, surgical landmarks, and clinical correlations.",
+      "category": "Medical",
+      "cardCount": 15,
+      "author": "MemoryForge",
+      "url": "packs/anatomy-high-yield.json"
+    },
+    {
+      "id": "pharmacology-must-know",
+      "title": "Pharmacology Must-Know",
+      "description": "Key drug mechanisms, side effects, interactions, and antidotes every medical student needs to know.",
+      "category": "Medical",
+      "cardCount": 15,
+      "author": "MemoryForge",
+      "url": "packs/pharmacology-must-know.json"
+    },
+    {
+      "id": "spanish-essential-vocabulary",
+      "title": "Spanish Essential Vocabulary",
+      "description": "Survival Spanish for beginners: greetings, polite phrases, directions, dining, and everyday expressions.",
+      "category": "Language",
+      "cardCount": 20,
+      "author": "MemoryForge",
+      "url": "packs/spanish-essential-vocabulary.json"
+    },
+    {
+      "id": "japanese-n5-vocabulary",
+      "title": "Japanese N5 Vocabulary",
+      "description": "Core Japanese vocabulary for JLPT N5: common verbs, adjectives, nouns, and useful expressions.",
+      "category": "Language",
+      "cardCount": 20,
+      "author": "MemoryForge",
+      "url": "packs/japanese-n5-vocabulary.json"
+    },
+    {
+      "id": "japanese-n5-greetings",
+      "title": "Japanese N5 Greetings",
+      "description": "Essential Japanese greetings and daily expressions for JLPT N5 level.",
+      "category": "Language",
+      "cardCount": 10,
+      "author": "MemoryForge",
+      "url": "packs/japanese-n5-greetings.json"
+    },
+    {
+      "id": "japanese-kanji-n5",
+      "title": "Japanese Kanji N5",
+      "description": "Fundamental kanji for JLPT N5: numbers, days, nature, people, and common verbs with readings.",
+      "category": "Language",
+      "cardCount": 20,
+      "author": "MemoryForge",
+      "url": "packs/japanese-kanji-n5.json"
+    },
+    {
+      "id": "french-essential-vocabulary",
+      "title": "French Essential Vocabulary",
+      "description": "Essential French for travelers and beginners: greetings, dining, directions, and polite expressions.",
+      "category": "Language",
+      "cardCount": 20,
+      "author": "MemoryForge",
+      "url": "packs/french-essential-vocabulary.json"
+    },
+    {
+      "id": "mcat-science-essentials",
+      "title": "MCAT Science Essentials",
+      "description": "Core MCAT science concepts: biology, chemistry, physics, and biochemistry review for test day.",
+      "category": "Test Prep",
+      "cardCount": 15,
+      "author": "MemoryForge",
+      "url": "packs/mcat-science-essentials.json"
+    },
+    {
+      "id": "sat-gre-vocabulary",
+      "title": "SAT & GRE Vocabulary",
+      "description": "High-frequency vocabulary words for SAT and GRE exams with definitions, synonyms, and example usage.",
+      "category": "Test Prep",
+      "cardCount": 20,
+      "author": "MemoryForge",
+      "url": "packs/sat-gre-vocabulary.json"
+    },
+    {
+      "id": "world-geography-flags",
+      "title": "World Geography & Flags",
+      "description": "Surprising capitals, record-breaking landmarks, and flag identification from around the world.",
+      "category": "Knowledge",
+      "cardCount": 20,
+      "author": "MemoryForge",
+      "url": "packs/world-geography-flags.json"
+    },
+    {
+      "id": "programming-fundamentals",
+      "title": "Programming Fundamentals",
+      "description": "Essential CS concepts: data structures, algorithms, Big O, networking, databases, and software design principles.",
+      "category": "Programming",
+      "cardCount": 15,
+      "author": "MemoryForge",
+      "url": "packs/programming-fundamentals.json"
+    },
+    {
       "id": "swift-basics",
       "title": "Swift Basics",
       "description": "Core Swift language concepts including optionals, closures, protocols, and value types.",
@@ -20,13 +137,13 @@
       "url": "packs/ios-uikit-essentials.json"
     },
     {
-      "id": "japanese-n5-greetings",
-      "title": "Japanese N5 Greetings",
-      "description": "Essential Japanese greetings and daily expressions for JLPT N5 level.",
-      "category": "Language",
-      "cardCount": 10,
+      "id": "chess-openings-tactics",
+      "title": "Chess Openings & Tactics",
+      "description": "Popular chess openings, fundamental tactics (forks, pins, skewers), and essential endgame knowledge.",
+      "category": "Knowledge",
+      "cardCount": 15,
       "author": "MemoryForge",
-      "url": "packs/japanese-n5-greetings.json"
+      "url": "packs/chess-openings-tactics.json"
     }
   ]
 }

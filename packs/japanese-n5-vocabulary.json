@@ -1,0 +1,25 @@
+{
+  "deck": "Japanese N5 Vocabulary",
+  "cards": [
+    {"front": "学生 (がくせい)", "back": "Student", "notes": "大学生 (daigakusei) = college student. 中学生 (chuugakusei) = middle school student."},
+    {"front": "先生 (せんせい)", "back": "Teacher / Doctor (respectful title)", "notes": "Used for teachers, doctors, lawyers, and other respected professionals."},
+    {"front": "食べる (たべる)", "back": "To eat", "notes": "Group 2 (ichidan) verb. 食べます (tabemasu) = polite form. 食べた (tabeta) = past tense."},
+    {"front": "飲む (のむ)", "back": "To drink", "notes": "Group 1 (godan) verb. 飲みます (nomimasu) = polite form. お水を飲む = drink water."},
+    {"front": "行く (いく)", "back": "To go", "notes": "Irregular te-form: 行って (itte). 学校に行く = go to school. Direction particle: に or へ."},
+    {"front": "来る (くる)", "back": "To come", "notes": "Irregular verb. 来ます (kimasu), 来た (kita), 来て (kite). 日本に来る = come to Japan."},
+    {"front": "する", "back": "To do / To make", "notes": "Irregular verb. します (shimasu). Creates verbs from nouns: 勉強する (benkyou suru) = to study."},
+    {"front": "大きい (おおきい)", "back": "Big / Large", "notes": "い-adjective. 大きくない = not big. 大きかった = was big."},
+    {"front": "小さい (ちいさい)", "back": "Small / Little", "notes": "い-adjective. Opposite of 大きい. 小さいねこ = small cat."},
+    {"front": "新しい (あたらしい)", "back": "New", "notes": "い-adjective. 新しいくるま = new car. Opposite: 古い (ふるい) = old."},
+    {"front": "高い (たかい)", "back": "Expensive / Tall / High", "notes": "Two meanings depending on context. 高いビル = tall building. 高いくつ = expensive shoes."},
+    {"front": "安い (やすい)", "back": "Cheap / Inexpensive", "notes": "い-adjective. Opposite of 高い (expensive). 安くておいしい = cheap and delicious."},
+    {"front": "天気 (てんき)", "back": "Weather", "notes": "今日の天気 = today's weather. いい天気ですね = Nice weather, isn't it?"},
+    {"front": "時間 (じかん)", "back": "Time / Hour", "notes": "三時間 (san-jikan) = 3 hours. 時間がない = don't have time."},
+    {"front": "電話 (でんわ)", "back": "Telephone", "notes": "電話する = to make a phone call. 電話番号 = phone number."},
+    {"front": "友達 (ともだち)", "back": "Friend", "notes": "友達になる = to become friends. 親友 (しんゆう) = close/best friend."},
+    {"front": "家族 (かぞく)", "back": "Family", "notes": "ご家族 (go-kazoku) = someone else's family (polite). 家族は四人です = My family has 4 people."},
+    {"front": "毎日 (まいにち)", "back": "Every day", "notes": "毎朝 (maiasa) = every morning. 毎週 (maishuu) = every week. 毎月 (maitsuki) = every month."},
+    {"front": "〜が好きです (〜がすきです)", "back": "I like ~", "notes": "すし が 好きです = I like sushi. 大好き (daisuki) = love/really like."},
+    {"front": "〜がわかります", "back": "I understand ~ / I know ~", "notes": "日本語がわかります = I understand Japanese. わかりません = I don't understand."}
+  ]
+}
